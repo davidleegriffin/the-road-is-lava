@@ -89,6 +89,10 @@ p, div, form, li, button {
     padding: 0px;
   }
 
+  .footer__img__repo {
+    margin-right: 50px;
+  }
+
   .navbar {
     margin: 0 auto;
     height: 80px;
