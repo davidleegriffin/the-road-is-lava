@@ -45,8 +45,8 @@ export default function HomePage(props) {
                         <div className="homePage_container-middle-container">
                             <h1>Activity of the Week</h1>
                             <div className="homePage_routesCard">
-                                <p>Name: {routes.name}</p>
-                                <p>Description: {routes.description}</p>
+                                {/* <p>Name: {routes.name}</p>
+                                <p>Description: {routes.description}</p> */}
                             </div>
                         </div>
                     </div>
