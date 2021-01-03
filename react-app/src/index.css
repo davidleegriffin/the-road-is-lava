@@ -90,7 +90,8 @@ p, div, form, li, button {
   }
 
   .footer__img__repo {
-    margin-right: 50px;
+    background-color:rgba(252, 82, 0, 0.8);
+    margin-right: 40px;
   }
 
   .navbar {
