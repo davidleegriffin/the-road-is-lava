@@ -1,13 +1,13 @@
 # [The Road Is Lava](https://theroadislava.herokuapp.com/) - The #1 app for avoiding hot lava
-*By [Adam Jacobson](https://github.com/djangothesolarboy) [Zac Watts](https://github.com/zdwatts) [Michael Gann](https://github.com/michael-gann) [David Griffin](https://github.com/davidleegriffin)*
+*By [David Griffin](https://github.com/davidleegriffin) [Carlos Monero](https://github.com/Cmolerov) [Dale Sakamoto](https://github.com/DaleTsakamoto)*
 
 
 ### [Table Of Contents]:
-- [Description](https://github.com/djangothesolarboy/deadreads#Description)
-- [Application Architecture && Technologies Used](https://github.com/djangothesolarboy/deadreads#Application-Architecture-&&-Technologies-Used)
-- [Technology Shields](https://github.com/djangothesolarboy/deadreads#Technology-Shields)
-- [Frontend Overview](https://github.com/djangothesolarboy/deadreads#Frontend-Overview)
-- [Backend Overview](https://github.com/djangothesolarboy/deadreads#Backend-Overview)
+- [Description](https://github.com/Cmolerov/the_floor_is_lava#Description)
+- [Application Architecture && Technologies Used](https://github.com/Cmolerov/the_floor_is_lava#Application-Architecture-&&-Technologies-Used)
+- [Technology Shields](https://github.com/Cmolerov/the_floor_is_lava#Technology-Shields)
+- [Frontend Overview](https://github.com/Cmolerov/the_floor_is_lava#Frontend-Overview)
+- [Backend Overview](https://github.com/Cmolerov/the_floor_is_lava#Backend-Overview)
 
 
 ## [Description]:
