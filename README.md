@@ -1,4 +1,4 @@
-# [deadreads](https://deadreads.herokuapp.com/) - Social Media for Horror Book lovers
+# [The Road Is Lava](https://theroadislava.herokuapp.com/) - The #1 app for avoiding hot lava
 *By [Adam Jacobson](https://github.com/djangothesolarboy) [Zac Watts](https://github.com/zdwatts) [Michael Gann](https://github.com/michael-gann) [David Griffin](https://github.com/davidleegriffin)*
 
 
@@ -11,15 +11,13 @@
 
 
 ## [Description]:
-Deadreads, a goodreads clone, is a social media application that allows users to review horror books, add horror books to bookcrypts along with, view reviews and profiles of other horror book lovers.
+The Road Is Lava is an exercise helper web app designed to shake things up when lava strikes ruin your favorite bike path and forces you on the fly to take a different route to achieve your fitness goals.
 
-Get [💀𝔰քօօӄʏ💀](https://deadreads.herokuapp.com/).
+Get [MOVING!](https://theroadislava.herokuapp.com/).
 
 
 ### [Application Architecture && Technologies Used]:
-Deadreads was built using the Express NodeJS framework with a PostgreSQL(postgres) database to store all the application data in combination.
-
-The frontend uses the [Pug](https://pugjs.org/api/getting-started.html) templating engine to render views from the frontend server. We used vanilla Javascript for interactivity and standard CSS for styling as well.
+The Road Is Lava was built using the python/flask framework with a PostgreSQL(postgres) database to serve up  RESTful API's in combination with REACT frontend framework.
 
 
 ### [Frontend Overview]:
